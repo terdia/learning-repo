@@ -1,0 +1,4 @@
+file
+second line this is some new content
+
+git config --global core.editor "'D:\Program Files (x86)\Notepad++\notepad++.exe' -multiInst -nosession"
