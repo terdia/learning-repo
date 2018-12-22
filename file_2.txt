@@ -1,4 +1,4 @@
-file
+file editting file two to test seprate commits
 second line this is some new content
-
+Edited from windows local repo
 git config --global core.editor "'D:\Program Files (x86)\Notepad++\notepad++.exe' -multiInst -nosession"
